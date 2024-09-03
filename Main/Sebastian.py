@@ -7,3 +7,5 @@ from sklearn.metrics import classification_report, accuracy_score
 import nltk
 import re
 
+from Main import testString
+print(testString)
