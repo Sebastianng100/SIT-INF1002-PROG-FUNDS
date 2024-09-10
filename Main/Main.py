@@ -5,5 +5,5 @@
 import pandas as pd
 
 #Reading of dataset files
-enron_dataset = pd.read_csv(r'Datasets\Enron_Email_Dataset.csv')
+enron_dataset = pd.read_csv(r'data/enronData.csv')
 print("Hello this is the dataframe:" + str(enron_dataset))
