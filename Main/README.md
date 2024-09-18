@@ -13,6 +13,7 @@ Citation
 A. I. Champa, M. F. Rabbi, and M. F. Zibran, “Curated datasets and feature analysis for phishing email detection with machine learning,” in 3rd IEEE International Conference on Computing and Machine Intelligence (ICMI), 2024, pp. 1–7 (to appear)
 
 3. Folder Structure
+```
 .
 └── Main/
     ├── data/
@@ -24,4 +25,4 @@ A. I. Champa, M. F. Rabbi, and M. F. Zibran, “Curated datasets and feature ana
     │   └── XGBoost_Sebastian.py
     ├── dataExploration.ipynb
     └── README.md
-
+```
