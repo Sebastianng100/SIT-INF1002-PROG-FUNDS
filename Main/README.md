@@ -3,7 +3,7 @@ Where we are tackling a problem on identifying phishing emails using machine lea
 
 1. Installation of libraries that will be used in this project
 ```
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+pip install numpy pandas matplotlib seaborn scikit-learn xgboost setuptools hyperopt scikit-optimize
 ```
 
 2. What to run before model tuning
