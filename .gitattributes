@@ -1,1 +1,2 @@
 MLPClassifier_ZiHin.pkl filter=lfs diff=lfs merge=lfs -text
+randomforestclassifier_daniel.pkl filter=lfs diff=lfs merge=lfs -text
