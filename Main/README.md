@@ -20,7 +20,12 @@ Citation
 A. I. Champa, M. F. Rabbi, and M. F. Zibran, “Curated datasets and feature analysis for phishing email detection with machine learning,” in 3rd IEEE International Conference on Computing and Machine Intelligence (ICMI), 2024, pp. 1–7 (to appear)
 
 Sebastian:
+XGBoost Model Usage:
 https://www.kaggle.com/code/stpeteishii/email-spam-prediction-xgboost
+XGBoost Hyperparameter Tuning:
+https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning
+ChatGPT:
+https://openai.com/chatgpt/
 
 4. Folder Structure
 ```
